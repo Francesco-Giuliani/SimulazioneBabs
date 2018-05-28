@@ -1,0 +1,3 @@
+PASSI:
+Il DB è molto grosso: non conviene caricare tutto, anche perchè ci sono tabelle con molti dati ,  ma non molte relazioni
+Inoltre ci servono solo info relative a na particolare data.
